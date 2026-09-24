@@ -1,0 +1,10 @@
+{
+  "candidateId": "candidate-b",
+  "source": "assets/source.png",
+  "sourceDigest": "886eca293713dd0dc77ee8c492c64e81359f6e0286b79d5f6df20c506466d1e2",
+  "rights": "Repository-provided public acceptance fixture data",
+  "visibility": "repository",
+  "lineage": [
+    "assets/source.png"
+  ]
+}
